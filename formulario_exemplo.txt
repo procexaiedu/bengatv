@@ -1,0 +1,154 @@
+# Formulário de Coleta de Dados - Sati BengaTV
+
+## 1. Informações Gerais da Empresa
+
+### 1.1 Dados Básicos
+- Nome completo da empresa:
+- Nome fantasia:
+- CNPJ:
+- Endereço completo:
+- Site:
+- Redes sociais (links):
+  - YouTube:
+  - Instagram:
+  - Outros:
+
+### 1.2 Horários e Funcionamento
+- Horário de funcionamento da loja:
+- Dias de atendimento:
+- Horários preferenciais para agendamentos:
+- Tempo médio de cada visita/atendimento:
+- Períodos de maior movimento:
+
+### 1.3 Capacidade de Atendimento
+- Número máximo de agendamentos por dia:
+- Número máximo de agendamentos simultâneos:
+- Tempo mínimo de intervalo entre agendamentos:
+- Número de boxes de atendimento:
+
+## 2. Detalhamento do Negócio
+
+### 2.1 Serviços Oferecidos
+- Lista completa de serviços:
+- Serviços que necessitam agendamento:
+- Serviços que não necessitam agendamento:
+- Tempo médio de execução de cada serviço:
+
+### 2.2 Especialidades
+- Marcas de veículos atendidas:
+- Tipos de modificações realizadas:
+- Serviços mais procurados:
+- Diferenciais competitivos:
+
+### 2.3 Público-Alvo
+- Perfil típico dos clientes:
+- Principais demandas:
+- Dúvidas mais frequentes:
+- Objeções comuns:
+
+## 3. Protocolos de Atendimento
+
+### 3.1 Processo de Agendamento
+- Informações necessárias para agendar:
+- Documentos necessários:
+- Política de cancelamento:
+- Política de reagendamento:
+- Tempo mínimo de antecedência para:
+  - Agendamento:
+  - Cancelamento:
+  - Reagendamento:
+
+### 3.2 Regras de Negócio
+- Condições para agendamento:
+- Restrições específicas:
+- Prioridades de atendimento:
+- Casos especiais:
+
+### 3.3 Políticas de Atendimento
+- Protocolo de boas-vindas:
+- Protocolo de finalização:
+- Política de reclamações:	
+- Política de garantia:
+
+## 4. Comunicação e Linguagem
+
+
+### 4.2 Personalidade da Marca
+- Valores da empresa:
+- Como a marca se comunica:
+- Elementos de identidade:
+- Diferenciais no atendimento:
+
+### 4.3 Respostas Padrão
+- Saudação inicial:
+- Despedida:
+- Confirmação de agendamento:
+- Lembretes de visita:
+
+## 5. Base de Conhecimento
+
+### 5.1 Perguntas Frequentes
+- Lista de FAQs e respostas:
+- Dúvidas técnicas comuns:
+- Questões sobre preços:
+- Dúvidas sobre agendamento:
+
+### 5.2 Procedimentos
+- Passo a passo do agendamento:
+- Processo de check-in:
+- Processo de pagamento:
+- Pós-atendimento:
+
+### 5.3 Situações Especiais
+- Como lidar com atrasos:
+- Procedimento para emergências:
+- Casos de insatisfação:
+- Situações excepcionais:
+
+## 6. Integrações e Sistemas
+
+### 6.1 Agenda
+- Sistema de agenda utilizado:
+- Regras de sincronização:
+- Notificações necessárias:
+- Confirmações automáticas:
+
+### 6.2 Comunicação
+- Canais de atendimento:
+- Prioridade dos canais:
+- Integrações necessárias:
+- Fluxo de escalonamento:
+
+## 7. Métricas e KPIs
+
+### 7.1 Indicadores Principais
+- Métricas de sucesso:
+- Tempo máximo de resposta:
+- Taxa de conversão esperada:
+- Satisfação do cliente:
+
+### 7.2 Relatórios
+- Informações necessárias:
+- Frequência de relatórios:
+- Dados a serem coletados:
+- Formato de apresentação:
+
+## 8. Informações Adicionais
+
+### 8.1 Casos de Sucesso
+- Exemplos de bom atendimento:
+- Feedbacks positivos:
+- Diferenciais reconhecidos:
+- Histórias de transformação:
+
+### 8.2 Pontos de Atenção
+- Situações críticas:
+- Erros a evitar:
+- Pontos de melhoria:
+- Feedback negativo comum:
+
+### 8.3 Observações Gerais
+- Informações complementares:
+- Considerações especiais:
+- Projetos futuros:
+- Sugestões de melhoria:
